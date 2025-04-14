@@ -1,0 +1,2 @@
+# Gateecrypted.py
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ebdc8859d2604f4bbddb04e1328872cb)](https://app.codacy.com/gh/Stephenvega2/Gateecrypted.py?utm_source=github.com&utm_medium=referral&utm_content=Stephenvega2/Gateecrypted.py&utm_campaign=Badge_Grade)
